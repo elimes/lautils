@@ -9,7 +9,7 @@ description = "A python utils package"
 readme = "README.md"
 license = {text = "Apache-2.0"}
 authors = [
-    {name = "elimes", email = "elimes@126.com"},
+    {name = "elimes", email = "elimes@qq.com"},
 ]
 classifiers = [
     "License :: OSI Approved :: Apache Software License",
@@ -34,3 +34,6 @@ Repository = "https://github.com/elimes/lautpy"
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.setuptools.package-dir]
+"" = "src"

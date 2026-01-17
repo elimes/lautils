@@ -1,8 +1,8 @@
 Metadata-Version: 2.4
 Name: lautpy
-Version: 0.0.1
+Version: 0.0.2.1
 Summary: A python utils package
-Author-email: elimes <elimes@126.com>
+Author-email: elimes <elimes@qq.com>
 License: Apache-2.0
 Project-URL: Homepage, https://github.com/elimes/lautpy
 Project-URL: Repository, https://github.com/elimes/lautpy
